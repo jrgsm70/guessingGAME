@@ -16,7 +16,7 @@ function CompareNumbers {
 
 clear
 # -------- Definition of the initial values of the variables
-
+#
 booleanVariable=0 #If the user guess the booleanVariable will be 1
 cadena="How many files are in the current directory? Type the correct number:"
 numfiles=$(ls -hl | egrep "^-r" | wc -l)

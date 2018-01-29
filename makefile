@@ -1,4 +1,4 @@
-README.md:
+README.md: guessinggame.sh
 	echo "# Guessing game" > README.md
 	echo "" >> README.md
 	echo "Make was run on" >> README.md
